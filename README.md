@@ -1,5 +1,6 @@
 # GAN-Sentence
-Generate a new book/essay using GAN-Recurrent-LSTM on Tensorflow
+Generate a new book/essay using GAN-Recurrent-LSTM on Tensorflow.
+# There is no paper related about this, feel free to improvise it.
 
 ![alt text](gan-sentence.png)
 
