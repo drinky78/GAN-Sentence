@@ -1,7 +1,7 @@
 # GAN-Sentence
 Generate a new book/essay using GAN-Recurrent-LSTM on Tensorflow
 
-![alt text](essaygan.png)
+![alt text](gan-sentence.png)
 
 I still take original idea of GAN for cost function (cross entropy, single bit for every sentence), maximise fake sentence logits during generator backpropagate.
 
